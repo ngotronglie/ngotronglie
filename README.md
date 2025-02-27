@@ -43,7 +43,7 @@
 ## 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngotronglie&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngotronglie&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=494" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotronglie&theme=radical&hide_border=true&locale=en&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=494" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotronglie&layout=compact&theme=radical" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngotronglie&theme=radical" width="100%" />
   <img src="https://github-profile-trophy.vercel.app/?username=ngotronglie&theme=radical" width="100%" />
