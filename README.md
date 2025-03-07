@@ -9,7 +9,7 @@
 ---
 
 ## 🧐 **About Me**  
-🎓 I'm a **final-year student at FPT Polytechnic** majoring in **Web Development**.  
+🎓 I'm a **final-year student at UNIVERSITY OF TRANSPORT AND COMMUNICATIONS** majoring in **Web Development**.  
 💻 I specialize in **Laravel (PHP)** & **React.js** for building scalable applications.  
 📈 Passionate about **e-commerce, AI, and automation tools**.  
 📖 Always learning & exploring **new technologies**.  
